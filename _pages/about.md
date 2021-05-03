@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**Areas of Specialization**: Metaphysics (in contemporary analytic philosophy and classical Chinese philosophy)
+**Areas of Specialization**: 
 
-**Areas of Competence**: Philosophy of Language, Philosophy of Science, Philosophy of Religion, Ethics (esp. in classical Chinese philosophy)
+Metaphysics (in contemporary analytic philosophy and classical Chinese philosophy)
 
+**Areas of Competence**: 
 
+Philosophy of Language, Philosophy of Science, Philosophy of Religion, Ethics (esp. in classical Chinese philosophy)
+
+---
+I am an assistant professor of philosophy and CLAS-Honors preceptor of philosophy, jointly appointed by the philosophy department and the Honors college at the University of Maine.
 
 
