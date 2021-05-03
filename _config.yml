@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Hao Hong"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Philosophy; CLAS-Honors Preceptor of Philosophy"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Assistant Professor of Philosophy and Honors, University of Maine"
+  location         : "The Maples 211"
+  PhilPeople       : ""
+  googlescholar    : ""
+  email            : "hao.hong@maine.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
