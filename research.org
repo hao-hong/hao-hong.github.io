@@ -5,7 +5,7 @@
 
 - "Honors Flourishing in the Midst of Change," (with Mimi Killinger, Robert Glover, and Jordan LaBouff) /Journal of the National Collegiate Honors Council/ 24(1): 33-38. 2023.
 
-- "Many Problems of the Many," *Synthese* 199: 3101-3116, 2021.
+- "Many Problems of the Many," /Synthese/ 199: 3101-3116, 2021.
     [10.1007/s11229-020-02926-3](https://doi.org/10.1007/s11229-020-02926-3)
 
 - "A Challenge to the New Metaphysics: deRosset, Priority, and
@@ -13,7 +13,7 @@
     198: 6403-6433, 2021.
     [10.1007/s11229-019-02468-3](https://doi.org/10.1007/s11229-019-02468-3)
 
--   "The Metaphysics of Dao in WANG Bi\'s Interpretation of /Laozi/,"
+-   "The Metaphysics of Dao in WANG Bi's Interpretation of /Laozi/,"
     /Dao: A Journal of Comparative Philosophy/, Vol. 18, Issue 2, 2019.
     [10.1007/s11712-019-09657-4](https://doi.org/10.1007/s11712-019-09657-4)
 
@@ -21,9 +21,9 @@
 
 - Things and What is Beyond All Things: Rethinking about You (有) and Wu (无) in Wei-Jin Xuanxue (魏晋玄学)
 
-- Names Exist when Carving Begins: A Theory of Names in *Daodejing*
+- Names Exist when Carving Begins: A Theory of Names in /Daodejing/
 
-- A Determinable-based Account of Dao in *Daodejing*
+- A Determinable-based Account of Dao in /Daodejing/
 
 * Recent and Future Talks
 
