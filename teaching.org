@@ -1,6 +1,16 @@
 #+title: Teaching
 #+OPTIONS: toc:nil num:nil html-postamble:nil
 
+Fall 2024:
+
+- PHI 102: Introduction to Philosophy
+- PHI 360: Metaphysics
+- HON 111: Civilizations: Past, Present, and Future I
+
+Summer 2024:
+
+- HON 391: Introduction to Thesis Research
+
 Spring 2024:
 
 - PHI 312: History of Modern Philosophy
